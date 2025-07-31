@@ -1,0 +1,11 @@
+{
+  "/api/mlm/tree/route": "app/api/mlm/tree/route.js",
+  "/api/mlm/earnings/route": "app/api/mlm/earnings/route.js",
+  "/api/mlm/daily-income/route": "app/api/mlm/daily-income/route.js",
+  "/user/games/play/car-racing/page": "app/user/games/play/car-racing/page.js",
+  "/user/games/play/bubble-shooter/page": "app/user/games/play/bubble-shooter/page.js",
+  "/user/referrals/page": "app/user/referrals/page.js",
+  "/user/withdrawal/page": "app/user/withdrawal/page.js",
+  "/user/page": "app/user/page.js",
+  "/user/games/play/page": "app/user/games/play/page.js"
+}

@@ -1,0 +1,150 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/user/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/layout.js"
+    ],
+    "/user/packages/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/packages/page.js"
+    ],
+    "/api/mlm/purchase-package/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/mlm/purchase-package/route.js"
+    ],
+    "/user/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/page.js"
+    ],
+    "/api/mlm/earnings/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/mlm/earnings/route.js"
+    ],
+    "/api/mlm/daily-income/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/mlm/daily-income/route.js"
+    ],
+    "/user/games/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/games/page.js"
+    ],
+    "/api/gaming/play-game/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/gaming/play-game/route.js"
+    ],
+    "/user/games/play/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/games/play/page.js"
+    ],
+    "/user/games/play/number-guessing/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/games/play/number-guessing/page.js"
+    ],
+    "/user/games/play/memory-cards/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/games/play/memory-cards/page.js"
+    ],
+    "/user/games/play/snake-game/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/games/play/snake-game/page.js"
+    ],
+    "/user/videos/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/videos/page.js"
+    ],
+    "/api/video/watch/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/video/watch/route.js"
+    ],
+    "/user/games/play/car-racing/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/games/play/car-racing/page.js"
+    ],
+    "/user/games/play/space-shooter/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/games/play/space-shooter/page.js"
+    ],
+    "/user/games/play/bubble-shooter/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/games/play/bubble-shooter/page.js"
+    ],
+    "/user/games/play/click-game/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/games/play/click-game/page.js"
+    ],
+    "/user/games/play/color-match/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/games/play/color-match/page.js"
+    ],
+    "/user/earnings/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/earnings/page.js"
+    ],
+    "/api/mlm/earnings-report/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/mlm/earnings-report/route.js"
+    ],
+    "/user/wallet/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/wallet/page.js"
+    ],
+    "/api/wallet/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/wallet/route.js"
+    ],
+    "/user/more/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/more/page.js"
+    ],
+    "/user/withdrawal/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/withdrawal/page.js"
+    ],
+    "/api/mlm/withdrawal/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/mlm/withdrawal/route.js"
+    ],
+    "/user/referrals/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/user/referrals/page.js"
+    ],
+    "/api/mlm/tree/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/mlm/tree/route.js"
+    ]
+  }
+}
